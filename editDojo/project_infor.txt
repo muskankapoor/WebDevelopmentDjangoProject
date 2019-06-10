@@ -1,0 +1,24 @@
+*  Python and JavaScript | Web Development 
+
+To rerun:
+1. inside the folder.
+5. python manage.py runserver
+6. utilize the local url 
+
+Django:
+project - a single project powers s single website
+	- multiple apps
+
+App - particular aspect 
+    - ex: one app for login, one app for listing items
+
+
+Web Development:
+browser sends a http request to server that runs the website
+the server repose back with an http reponse with content of the page
+
+http://127.0.0.1:8000/sayHello/
+
+Part 1 hello world app: 
+1. Edited urls.py in edit dojo project
+2. received say hello from myView function in view.py in hello directory 
